@@ -8,6 +8,7 @@ Machine Learning, Deep Learning, Data Analysis & Visualization, Smart Sensing, I
 
 #### Technical Skills: 
 Python, SQL, MATLAB
+
 [Data & AI Portfolio](datascienceportfol.io/Aslan)
 
 ### RESEARCH EXPERIENCES
