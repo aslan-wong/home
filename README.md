@@ -1,5 +1,6 @@
 # Data & AI Scientist 
 PhD. Engineering (Computer Science), Shenzhen University | 2023
+
 My interdisciplinary work bridges cognitive science, human-computer interaction (HCI), and intelligent sensing, with a focus on leveraging IoT devices, smartphones, and multimodal sensing systems for a variety of applications. My research focuses on advancing speech signal processing through the development of multimodal systems that leverage full range of acoustic signals. I have led projects that utilize machine learning to enhance speech articulation detection, pronunciation training, and articulation-based authentication. These innovations have been applied in healthcare (respiratory diagnostics) and HCI applications such as fall dection.
 
 #### AREA OF EXPERTISE: 
@@ -7,6 +8,7 @@ Machine Learning, Deep Learning, Data Analysis & Visualization, Smart Sensing, I
 
 #### Technical Skills: 
 Python, SQL, MATLAB
+[Data & AI Portfolio](datascienceportfol.io/Aslan)
 
 ### RESEARCH EXPERIENCES
 #### Research Data Scientist, Shenzhen-Hong Kong Institute of Brain Science | June 2023 - June 2024 
