@@ -9,7 +9,7 @@ Machine Learning, Deep Learning, Data Analysis & Visualization, Smart Sensing, I
 #### Technical Skills: 
 Python, SQL, MATLAB
 
-[Data & AI Portfolio](datascienceportfol.io/Aslan)
+[Data & AI Portfolio](https://www.datascienceportfol.io/Aslan)
 
 ### RESEARCH EXPERIENCES
 #### Research Data Scientist, Shenzhen-Hong Kong Institute of Brain Science | June 2023 - June 2024 
