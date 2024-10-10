@@ -1,10 +1,11 @@
 # AI Scientist 
-- PhD. Engineering (Computer Science), Shenzhen University | 2023
+PhD. Engineering (Computer Science), Shenzhen University | 2023
+
 #### AREA OF EXPERTISE: 
 Machine Learning, Deep Learning, Data Analysis & Visualization, Smart Sensing, IoT, Wearable Device, Signal Processing, NLP 
+
 #### Technical Skills: 
 Python, SQL, MATLAB
-
 
 ### RESEARCH EXPERIENCES
 #### Research Data Scientist, Shenzhen-Hong Kong Institute of Brain Science | June 2023 - June 2024 
@@ -43,18 +44,20 @@ Python, SQL, MATLAB
 - Initiated techniques of wearable EMG and functional near-infrared spectroscopy (fNIRs) devices for monitoring strength training in collaboration with Shenzhen-Hong Kong Institute of Brain Science and University of Wisconsin-Milwaukee.
 - Designed PCB for two wearble devices: EMG-shirt and EEG-hairband and fabricated with 3D printing
 
-### “Speech Articulation Sensing via Smartphones: A Multifaceted Approach Advancing HCI Applications” 
+### Project: Speech Articulation Sensing via Smartphones: A Multifaceted Approach Advancing HCI Applications
 #### LingLab: Articulation Detection and Analysis System
 - Initiated a system for detecting and analyzing articulation using speech and ultrasonic signals to sense tongue and lip movements based on phonetic rules; evaluated across French, Japanese, Korean, and Mandarin Chinese, the system achieved an accuracy of 94.74% in recognizing articulation [11]
-#### Artilock: Smartphone Voice-articulation Authentication System 
+
+#### Artilock: Smartphone Voice-articulation Authentication System
 - Developed an advanced smartphone user authentication system that analyzes articulation by integrating the physiology and behavior of the vocal tract, tongue position, and lip movement using speech and ultrasonic signals for identity verification; achieving an average accuracy of 99% and an equal error rate of 0.5% across various environments [2], [12], [16], [P5]
+  
 #### OsLing: Pronunciation Training System Development
 - Developed a smartphone-based pronunciation training system that identifies articulation errors at the phoneme level using both audible and inaudible acoustic signals evaluating mouth movements and tongue positions to provide feedback for self-correction with an average accuracy of 99.09% [3], [13], [15], [17], [P1]
 
 
 ## Publications
 ### Journals
-1. Kexiang Gao, Aslan B. Wong, Sijin Li, Yueyao Zhang, Dandan Zhang, 2024. The ventromedial Prefrontal Cortex Plays an Important Role in Implicit Emotion Regulation: A Focality‐Optimized Multichannel. Human Brain Mapping. 10.1002/hbm.26812 (In Press) (JRC Q1)
+1. Kexiang Gao, Aslan B. Wong, Sijin Li, Yueyao Zhang, Dandan Zhang, 2024. The ventromedial Prefrontal Cortex Plays an Important Role in Implicit Emotion Regulation: A Focality‐Optimized Multichannel. Human Brain Mapping. 10.1002/hbm.26812 (JRC Q1)
 2. Aslan B. Wong, Ziqi Huang, Xia Chen, and Kaishun Wu. 2023. ArtiLock: Smartphone User Identification Based on Physiological and Behavioral Features of Monosyllable Articulation. Sensors 23, 3 (February 2023). 10.3390/s23031667 (JRC Q1)
 3. Aslan B. Wong, ZiQi Huang, and Kaishun Wu. 2022. Leveraging Audible and Inaudible Signals for Pronunciation Training by Sensing Articulation through a Smartphone. Speech Communication 144, (October 2022). 10.1016/j.specom.2022.08.002 (JRC Q1, CCF B)
 4. Aslan B Wong, Diannan Chen, Xia Chen, and Kaishun Wu. 2022. Monitoring Neuromuscular Activity during Exercise: a New Approach to Assessing Attentional Focus Based on a Multitasking and Multiclassification Network and an EMG Fitness Shirt. Biosensors 13, 1 (December 2022). 10.3390/bios13010061 (JRC Q1)
