@@ -1,59 +1,55 @@
 # AI Scientist 
-#### AREA OF EXPERTISE: Machine Learning, Deep Learning, Data Analysis & Visualization, Smart Sensing, IoT, Wearable Device, Signal Processing, NLP 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-### Education
 - PhD. Engineering (Computer Science), Shenzhen University | 2023
-- Master of Big Data and Business Intelligence, University Isabel I of Castile | 2024
-- M.Sc., Management of Innovation and Emerging Technologies, Robert de Sorbon | 2017
-- BFA, Design, Robert de Sorbon | 2014
+#### AREA OF EXPERTISE: 
+Machine Learning, Deep Learning, Data Analysis & Visualization, Smart Sensing, IoT, Wearable Device, Signal Processing, NLP 
+#### Technical Skills: 
+Python, SQL, MATLAB
+
 
 ### RESEARCH EXPERIENCES
-** Research Data Scientist, Shenzhen-Hong Kong Institute of Brain Science | June 2023 - June 2024 
-Supervisor: Prof. Dandan Zhang
+#### Research Data Scientist, Shenzhen-Hong Kong Institute of Brain Science | June 2023 - June 2024 
 •	Enhanced focality by employing a focality-optimized multi-channel tDCS approach targeting the ventromedial prefrontal cortex (VMPFC) [1]
 
-** AI Research Scientist, Institute for Healthcare AI Application of Guangdong 2nd Provincial Hospital| June 2021 - June 2023 
-•	Engineered AI models for respiratory diagnosis in COPD patients using smartphone sensors 
-•	Designed and implemented an interpretable AI system for pneumonia detection using a large dataset of 35,389 cases of chest X-ray images 
-•	Coordinated research efforts among IoT Research Center, the hospital, and Healthcare-AI Institute
+#### AI Research Scientist, Institute for Healthcare AI Application of Guangdong 2nd Provincial Hospital| June 2021 - June 2023 
+- Engineered AI models for respiratory diagnosis in COPD patients using smartphone sensors 
+- Designed and implemented an interpretable AI system for pneumonia detection using a large dataset of 35,389 cases of chest X-ray images 
+- Coordinated research efforts among IoT Research Center, the hospital, and Healthcare-AI Institute
 
-** PhD Researcher, IoT Research Center| Sep 2017 - Dec 2023 
-•	Led multiple projects integrating AI, IoT, and HCI: 
-•	Developed fall detection system using acoustic sensing, achieving 98.97% accuracy
-•	Created neuromuscular activity monitoring system for strength training, integrating wearable sensors and machine learning algorithms
-•	Designed and implemented smartphone-based articulation sensing system for various applications including user authentication and pronunciation training
-•	First-Authored 8 top-tier publications in speech processing, mobile computing, and HCI
-•	Mentored junior researchers and coordinated cross-functional teams
+#### PhD Researcher, IoT Research Center| Sep 2017 - Dec 2023 
+- Led multiple projects integrating AI, IoT, and HCI: 
+- Developed fall detection system using acoustic sensing, achieving 98.97% accuracy
+- Created neuromuscular activity monitoring system for strength training, integrating wearable sensors and machine learning algorithms
+- Designed and implemented smartphone-based articulation sensing system for various applications including user authentication and pronunciation training
+- First-Authored 8 top-tier publications in speech processing, mobile computing, and HCI
+- Mentored junior researchers and coordinated cross-functional teams
 
 ### Projects
-** Respiratory Diagnosis System; Supervisor: Prof. Kaishun Wu; PI: MD. Weibin Cheng
-•	Initiated and developed models for respiratory diagnosis of lung function in COPD patients using smartphones to detect obstructed airflow and wheezing through vowel articulation [P2]
-•	Initiated and developed model and system for measuring pulmonary function parameters based on speech signals [P3]
+#### Respiratory Diagnosis System; Supervisor: Prof. Kaishun Wu; PI: MD. Weibin Cheng
+- Initiated and developed models for respiratory diagnosis of lung function in COPD patients using smartphones to detect obstructed airflow and wheezing through vowel articulation [P2]
+- Initiated and developed model and system for measuring pulmonary function parameters based on speech signals [P3]
 
-** Interpretable AI System for Pneumonia Detection: Supervisor: Prof. Kaishun Wu, PI: MD. Weibin Cheng
-•	Developed an interpretable AI approach for detecting pneumonia using a large dataset of 35,389 cases of community-acquired pneumonia [6]
-•	Developed a prediction model with chest X-ray images and combined neural networks with an explainable Bayesian network to enhance diagnosis accuracy and interpretability
+#### Interpretable AI System for Pneumonia Detection: Supervisor: Prof. Kaishun Wu, PI: MD. Weibin Cheng
+- Developed an interpretable AI approach for detecting pneumonia using a large dataset of 35,389 cases of community-acquired pneumonia [6]
+- Developed a prediction model with chest X-ray images and combined neural networks with an explainable Bayesian network to enhance diagnosis accuracy and interpretability
 
-** Project: Fa-Fall: Study on Full Range of Acoustic Signal for Fall Detection             https://github.com/aslan-wong/FA-Fall
-•	Initiated techniques for fall detection systems by fusing passive and active acoustic sensing through a pair of audio transceivers [5] [P4]
-•	Delevoped a multimodal classification framework with an attention mechanism and anomaly detection module to enhance the fall detection accuracy with an overall accuracy of 98.97% under typical conditions and over 90% accuracy in challenging environments with background noise or non-line-of-sight conditions				                        
-
-
-** VitSense: Neuromuscular Activity Monitoring for Strength Training   https://github.com/aslan-wong/Muscle-mind
-•	Developed an EMG shirt with noninvasive electrodes and a multitasking classification network to monitor neuromuscular activity during strength training achieving an average precision of 94.79% across various force conditions [4], [P6]	         
-•	Initiated techniques for a neuromuscular connection sensing system by integrating LSTM and SVM [14], [P7]
-•	Initiated techniques of wearable EMG and functional near-infrared spectroscopy (fNIRs) devices for monitoring strength training in collaboration with Shenzhen-Hong Kong Institute of Brain Science and University of Wisconsin-Milwaukee.
-•	Designed PCB for two wearble devices: EMG-shirt and EEG-hairband and fabricated with 3D printing
+#### Project: Fa-Fall: Study on Full Range of Acoustic Signal for Fall Detection             https://github.com/aslan-wong/FA-Fall
+- Initiated techniques for fall detection systems by fusing passive and active acoustic sensing through a pair of audio transceivers [5] [P4]
+- Delevoped a multimodal classification framework with an attention mechanism and anomaly detection module to enhance the fall detection accuracy with an overall accuracy of 98.97% under typical conditions and over 90% accuracy in challenging environments with background noise or non-line-of-sight conditions				                        
 
 
-** “Speech Articulation Sensing via Smartphones: A Multifaceted Approach Advancing HCI Applications” 
-*** LingLab: Articulation Detection and Analysis System
-•	Initiated a system for detecting and analyzing articulation using speech and ultrasonic signals to sense tongue and lip movements based on phonetic rules; evaluated across French, Japanese, Korean, and Mandarin Chinese, the system achieved an accuracy of 94.74% in recognizing articulation [11]
-***	Artilock: Smartphone Voice-articulation Authentication System 
-•	Developed an advanced smartphone user authentication system that analyzes articulation by integrating the physiology and behavior of the vocal tract, tongue position, and lip movement using speech and ultrasonic signals for identity verification; achieving an average accuracy of 99% and an equal error rate of 0.5% across various environments [2], [12], [16], [P5]
-***	OsLing: Pronunciation Training System Development
-•	Developed a smartphone-based pronunciation training system that identifies articulation errors at the phoneme level using both audible and inaudible acoustic signals evaluating mouth movements and tongue positions to provide feedback for self-correction with an average accuracy of 99.09% [3], [13], [15], [17], [P1]
+#### VitSense: Neuromuscular Activity Monitoring for Strength Training   https://github.com/aslan-wong/Muscle-mind
+- Developed an EMG shirt with noninvasive electrodes and a multitasking classification network to monitor neuromuscular activity during strength training achieving an average precision of 94.79% across various force conditions [4], [P6]	         
+- Initiated techniques for a neuromuscular connection sensing system by integrating LSTM and SVM [14], [P7]
+- Initiated techniques of wearable EMG and functional near-infrared spectroscopy (fNIRs) devices for monitoring strength training in collaboration with Shenzhen-Hong Kong Institute of Brain Science and University of Wisconsin-Milwaukee.
+- Designed PCB for two wearble devices: EMG-shirt and EEG-hairband and fabricated with 3D printing
+
+### “Speech Articulation Sensing via Smartphones: A Multifaceted Approach Advancing HCI Applications” 
+#### LingLab: Articulation Detection and Analysis System
+- Initiated a system for detecting and analyzing articulation using speech and ultrasonic signals to sense tongue and lip movements based on phonetic rules; evaluated across French, Japanese, Korean, and Mandarin Chinese, the system achieved an accuracy of 94.74% in recognizing articulation [11]
+#### Artilock: Smartphone Voice-articulation Authentication System 
+- Developed an advanced smartphone user authentication system that analyzes articulation by integrating the physiology and behavior of the vocal tract, tongue position, and lip movement using speech and ultrasonic signals for identity verification; achieving an average accuracy of 99% and an equal error rate of 0.5% across various environments [2], [12], [16], [P5]
+#### OsLing: Pronunciation Training System Development
+- Developed a smartphone-based pronunciation training system that identifies articulation errors at the phoneme level using both audible and inaudible acoustic signals evaluating mouth movements and tongue positions to provide feedback for self-correction with an average accuracy of 99.09% [3], [13], [15], [17], [P1]
 
 
 ## Publications
