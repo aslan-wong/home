@@ -1,4 +1,4 @@
-# AI Scientist 
+# Data & AI Scientist 
 PhD. Engineering (Computer Science), Shenzhen University | 2023
 
 #### AREA OF EXPERTISE: 
@@ -24,7 +24,7 @@ Python, SQL, MATLAB
 - First-Authored 8 top-tier publications in speech processing, mobile computing, and HCI
 - Mentored junior researchers and coordinated cross-functional teams
 
-### Projects
+### PROJECTS
 #### Respiratory Diagnosis System; Supervisor: Prof. Kaishun Wu; PI: MD. Weibin Cheng
 - Initiated and developed models for respiratory diagnosis of lung function in COPD patients using smartphones to detect obstructed airflow and wheezing through vowel articulation [P2]
 - Initiated and developed model and system for measuring pulmonary function parameters based on speech signals [P3]
