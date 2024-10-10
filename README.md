@@ -33,12 +33,12 @@ Python, SQL, MATLAB
 - Developed an interpretable AI approach for detecting pneumonia using a large dataset of 35,389 cases of community-acquired pneumonia [6]
 - Developed a prediction model with chest X-ray images and combined neural networks with an explainable Bayesian network to enhance diagnosis accuracy and interpretability
 
-#### Project: Fa-Fall: Study on Full Range of Acoustic Signal for Fall Detection             https://github.com/aslan-wong/FA-Fall
+#### Project: Fa-Fall: Study on Full Range of Acoustic Signal for Fall Detection             [github](https://github.com/aslan-wong/FA-Fall)
 - Initiated techniques for fall detection systems by fusing passive and active acoustic sensing through a pair of audio transceivers [5] [P4]
 - Delevoped a multimodal classification framework with an attention mechanism and anomaly detection module to enhance the fall detection accuracy with an overall accuracy of 98.97% under typical conditions and over 90% accuracy in challenging environments with background noise or non-line-of-sight conditions				                        
 
 
-#### VitSense: Neuromuscular Activity Monitoring for Strength Training   https://github.com/aslan-wong/Muscle-mind
+#### VitSense: Neuromuscular Activity Monitoring for Strength Training   [github](https://github.com/aslan-wong/Muscle-mind)
 - Developed an EMG shirt with noninvasive electrodes and a multitasking classification network to monitor neuromuscular activity during strength training achieving an average precision of 94.79% across various force conditions [4], [P6]	         
 - Initiated techniques for a neuromuscular connection sensing system by integrating LSTM and SVM [14], [P7]
 - Initiated techniques of wearable EMG and functional near-infrared spectroscopy (fNIRs) devices for monitoring strength training in collaboration with Shenzhen-Hong Kong Institute of Brain Science and University of Wisconsin-Milwaukee.
